@@ -1,0 +1,23 @@
+.main_div{
+    width : 500px;
+    height: 70%;
+
+    margin:10% auto;
+    /* background-color: aquamarine; */
+    border-radius: 10px;
+}
+#span{
+    margin-left: 42%;
+    display: block;
+    font-size: 800%;
+    
+}
+.mg_left{
+    margin-left: 12%;
+}
+.mg_top{
+    margin-top: 10%;
+}
+.mg_bottom{
+    margin-bottom: 5%;
+}
